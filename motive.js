@@ -545,7 +545,7 @@
 
 		var scale_members = [];
 		for (var i = 0; i < interval_members.length; i++) {
-			//push normalized interval
+			//use normalized interval for scale members
 			scale_members.push(normalizeInterval(interval_members[i]));
 		}
 

@@ -1242,4 +1242,3 @@
   };
   
 })()
->>>>>>> convert indentation to spaces, add tetrachords to public api
